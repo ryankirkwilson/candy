@@ -1,7 +1,7 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2369",
-    "contentApiKey": "72e9bb547e5528eea72fe4eda1"
+    "apiUrl": "http://ec2-52-27-90-213.us-west-2.compute.amazonaws.com",
+    "contentApiKey": "e42f60678eff7cc61b7a1206c0"
   },
   "production": {
     "apiUrl": "https://gatsby.ghost.io",
